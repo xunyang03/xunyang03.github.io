@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "杨洵 YANG Xun"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,14 +21,16 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.png"
-  name             : "Xun Yang"
-  pronouns         : #he/him"  
+  avatar           : "Profile_YANG Xun.png"
+  name             : "YANG Xun (Jonny)"
+  pronouns         : "he/him"  
   bio              : "Robotics Master @UM"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan - Ann Arbor"
   uri              : # URL
-  email            : "xunyang@umich.edu" 
+  email            : "xunyang@umich.edu"
+  phonetic         : "Yahng Shwin"
+  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
