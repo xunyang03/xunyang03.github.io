@@ -23,13 +23,12 @@ author:
   # Biographic information
   avatar           : "Profile_YANG Xun.png"
   name             : "YANG Xun (Jonny)"
-  pronouns         : "he/him"  
-  bio              : "Robotics Master @UM"
+  pronouns         : #he/him"  
+  bio              : "Robotics Master @UM\phonetic: Yahng Shwin"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan - Ann Arbor"
   uri              : # URL
   email            : "xunyang@umich.edu"
-  phonetic         : "Yahng Shwin"
   
 
   # Academic websites
