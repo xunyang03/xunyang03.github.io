@@ -15,7 +15,7 @@ redirect_from:
 * B.S. in Mechanical Engineering, Univerity of Cincinnati, 2024
 * B.S. in Mechanical Engineering, Chongqing University, 2023-->
 ### University of Michigan - Ann Arbor
-**M.S. in Robotics** (GPA: 4.00 / 4.00)<div style="text-align: right;">*08/2023 - Expect 2025*</div>
+**M.S. in Robotics** (GPA: 4.00 / 4.00)<span style="text-align: right;">*08/2023 - Expect 2025*</span>
 * Relevant Courses: Design of Digital Control Systems, Linear Systems Theory, Robotics Kinematics and Dynamics, Vehicle Control System, Robotics System Lab (ROB550), etc.
 ### University of Cincinnati
 **B.S. in Mechanical Engineering** (GPA: 3.93 / 4.00)<div style="text-align: right;">*09/2022 – 05/2023*</div>
