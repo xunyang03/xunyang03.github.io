@@ -9,45 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * M.S. in Robotics, University of Michigan - Ann Arbor, 2025 (expected)
 * B.S. in Mechanical Engineering, Univerity of Cincinnati, 2024
 * B.S. in Mechanical Engineering, Chongqing University, 2023
 
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  table, th, td {
-    border: none;
-  }
-</style>
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-
-Intern experience
+INTERN EXPERIENCE
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Research Assistant 
+#### Soft Robotics Center, Shenzhen Institute of AI and Robotics (Airs), Shenzhen, China
+*Joined: [06/2024 – 08/2024]*
+* Origami Structure Optimization\
+Participated in the design optimization of the underwater deformable recovery robot (DUR), conducted kinematics analysis and parameter design of the origami structure. Established the maximum open-close area ratio model and the deploying dynamics model. Performed global optimization using the particle swarm algorithm.
+* Thruster System Design\
+Designed the position and orientation of the DUR thruster. Constructed a propulsion system model with a characteristic matrix. Evaluated overall maneuverability through SVD decomposition. Evaluated the maximum output of force through linear regression.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Project Manager Intern
+#### Overseas Business Department, CISDI Engineering Co., Ltd, Chongqing, China
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
