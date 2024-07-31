@@ -14,26 +14,25 @@ ___
 ### University of Michigan - Ann Arbor
 **M.S. in Robotics** (GPA: 4.00 / 4.00) <span style="float: right;">*08/2023 - Expect 2025*</span>
   * Relevant Courses: Design of Digital Control Systems, Linear Systems Theory, Robotics Kinematics and Dynamics, Vehicle Control System, Robotics System Lab (ROB550), etc.
+  * 
 ### University of Cincinnati
 **B.S. in Mechanical Engineering** (GPA: 3.93 / 4.00) <span style="float: right;">*09/2022 – 05/2023*</span>
   * Relevant Courses: Intro to Robotics (A), Prob-Stats (A), Programming for ECE (A-), Thermodynamic (A), Fluid Mechanics (A), Solid Mechanics (A), etc.
+  * 
 ### Chongqing University
 **B.S. in Mechanical Engineering** (GPA: 3.69 / 4.00) <span style="float: right;">*09/2018 – 08/2022*</span>
   * Relevant Courses: Data Structures and Algorithms (95), Machine Learning (92), Numerical Techniques (95), Linear Algebra (91), Calculus (96), etc.
 
 ### University of Michigan - Ann Arbor
 **M.S. in Robotics** (GPA: 4.00 / 4.00) | <span style="float: right;">*08/2023 - Expect 2025*</span>
-:-------------------------------------- | ------------------------------------:
   * Relevant Courses: Design of Digital Control Systems, Linear Systems Theory, Robotics Kinematics and Dynamics, Vehicle Control System, Robotics System Lab (ROB550), etc.
 
 ### University of Cincinnati
 **B.S. in Mechanical Engineering** (GPA: 3.93 / 4.00) | <span style="float: right;">*09/2022 – 05/2023*</span>
-:-------------------------------------- | ------------------------------------:
   * Relevant Courses: Intro to Robotics (A), Prob-Stats (A), Programming for ECE (A-), Thermodynamic (A), Fluid Mechanics (A), Solid Mechanics (A), etc.
 
 ### Chongqing University
 **B.S. in Mechanical Engineering** (GPA: 3.69 / 4.00) | <span style="float: right;">*09/2018 – 08/2022*</span>
-:-------------------------------------- | ------------------------------------:
   * Relevant Courses: Data Structures and Algorithms (95), Machine Learning (92), Numerical Techniques (95), Linear Algebra (91), Calculus (96), etc.
 
 
@@ -56,6 +55,8 @@ Designed the position and orientation of the DUR thruster. Constructed a propuls
   * Engaged in the design of a double-position sampling robot, which can measure and sample molten steel by extending probes into furnaces. Accomplished the design, modeling, and verification of a mechanism for mold release.
   * Accessed the leading industrial robots. Understood the general process of project R&D.
 
+## PROJECT EXPERIENCE
+___
 
 
   
