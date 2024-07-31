@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Xun"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,20 +9,27 @@ redirect_from:
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 -->
-Hello! I'm Xun Yang (pronounced "Shwin Yahng"). I'm a Master's student majoring in Robotics at the University of Michigan - Ann Arbor.\
-My research interests include <b>Robotics Perception</b>, <b>Robotics Control</b> and <b>Autonomous Vehicles</b>. I will graduate in April 2025 and am seeking opportunities in software and algorithm development.\
+Xun Yang (pronounced “Shwin Yahng”) is a Master's student majoring in Robotics at the University of Michigan - Ann Arbor. His research interests include **Robotics Perception**, **Robotics Control**, and **Autonomous Vehicles**. He received his bachelor's degree from the Chongqing University - University of Cincinnati joint program, which was a 4+1 program. He has extensive internship and project experience.\
+Xun will graduate in April 2025 and is seeking opportunities in software and algorithm development.\
 Contact: xunyang@umich.edu
 
 Education
-======
-University of Michigan - Ann Arbor\
-<span style="color: grey;">MS in Robotics</span>
+=====
+M.S. in Robotics, University of Michigan - Ann Arbor, 2025 (expected)
 
-University of Cincinnati\
-<span style="color: grey;">BS in Mechanical Engineering</span>
+B.S. in Mechanical Engineering, University of Cincinnati, 2023
 
-Chongqing University\
-<span style="color: grey;">BS in Mechanical Engineering</span>
+B.S. in Mechanical Engineering, Chongqing University, 2012
+
+Publication
+====
+### Development of an Autonomous Robotic Snowplow for Residential Use
+Janet Dong, **Xun Yang**, Alexander Suer.  
+Presented at the ASME International Mechanical Engineering Congress & Exposition (IMECE) 2023.
+
+<span style="color: grey;">For more details about me, please see my CV.</span>
+
+<!---
 
 Subtitle Text
 ======
@@ -62,3 +69,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
