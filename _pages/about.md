@@ -13,9 +13,7 @@ Xun will graduate in April 2025 and is seeking opportunities in software and alg
 Education
 =====
 M.S. in Robotics, University of Michigan - Ann Arbor, 2025 (expected)
-
 B.S. in Mechanical Engineering, University of Cincinnati, 2023
-
 B.S. in Mechanical Engineering, Chongqing University, 2022
 
 Publication
