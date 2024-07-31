@@ -11,11 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Robotics, University of Michigan - Ann Arbor, 2025 (expected)
+* B.S. in Mechanical Engineering, Univerity of Cincinnati, 2024
+* B.S. in Mechanical Engineering, Chongqing University, 2023
 
-Work experience
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table, th, td {
+    border: none;
+  }
+</style>
+
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
+
+Intern experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
