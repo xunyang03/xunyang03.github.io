@@ -63,6 +63,7 @@ Designed the position and orientation of the DUR thruster. Constructed a propuls
   * Background: Joined Professor Chunyun Fu's research group at Chongqing University as an undergraduate to systematically study SLAM algorithms.
   * Implementation: Developed a 2D point cloud line segment fitting method using Principal Component Analysis (PCA) within a MATLAB framework. Utilized DBSCAN for feature matching and fusion.
   * Outcome: Designed a 2D point cloud data processing method based on line segment features, optimizing spatial complexity by 60%.
+
 ---
 # PUBLICATION
 ---
