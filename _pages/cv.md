@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
-======
+# EDUCATION
 * M.S. in Robotics, University of Michigan - Ann Arbor, 2025 (expected)
 * B.S. in Mechanical Engineering, Univerity of Cincinnati, 2024
 * B.S. in Mechanical Engineering, Chongqing University, 2023
 
-INTERN EXPERIENCE
-======
-### Research Assistant <span style="color: grey;">*06/2024 – 08/2024*</span><div style="text-align: right;">*06/2024 – 08/2024*</div>
+
+# INTERN EXPERIENCE
+### Research Assistant <span style="color: grey;">*06/2024 – 08/2024*</span>
+<div style="text-align: right;">06/2024 – 08/2024</div>
 Soft Robotics Center, Shenzhen Institute of AI and Robotics (Airs), Shenzhen, China 
 * Origami Structure Optimization\
 Participated in the design optimization of the underwater deformable recovery robot (DUR), conducted kinematics analysis and parameter design of the origami structure. Established the maximum open-close area ratio model and the deploying dynamics model. Performed global optimization using the particle swarm algorithm.
