@@ -6,13 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!---
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
--->
-Xun Yang (pronounced “Shwin Yahng”) is a Master's student majoring in Robotics at the University of Michigan - Ann Arbor. His research interests include **Robotics Perception**, **Robotics Control**, and **Autonomous Vehicles**. He received his bachelor's degree from the Chongqing University - University of Cincinnati Joint Co-op Institute in 2023. \
-He has extensive internship and project experience. He had worked in the Intelligent Robot Institute of a Fortune Global 500 Company in 2020. In 2024, he interned as an RA at Shenzhen Institute of Artificial Intelligence and Robotics for Society ([Airs](https://airs.cuhk.edu.cn/en)).\
-Xun will graduate in April 2025 and is seeking opportunities in software and algorithm development.\
-Contact: xunyang@umich.edu
+Xun Yang (pronounced “Shwin Yahng”) is a Master's student majoring in Robotics at the University of Michigan - Ann Arbor. His research interests include **Robotics Perception**, **Robotics Control**, and **Autonomous Vehicles**.\
+He received his bachelor's degree from the Chongqing University - University of Cincinnati Joint Co-op Institute in 2023. \
+He has interned in the Intelligent Robot Institute of a Fortune Global 500 Company in 2020. In 2024, he interned as an RA at Shenzhen Institute of Artificial Intelligence and Robotics for Society ([Airs](https://airs.cuhk.edu.cn/en)).\
+Xun will graduate in April 2025 and is seeking opportunities in software and algorithm development.
 
 Education
 =====
