@@ -17,13 +17,20 @@ M.S. in Robotics, University of Michigan - Ann Arbor, 2025 (expected)
 
 B.S. in Mechanical Engineering, University of Cincinnati, 2023
 
-B.S. in Mechanical Engineering, Chongqing University, 2012
+B.S. in Mechanical Engineering, Chongqing University, 2022
 
 Publication
 ====
 ### Development of an Autonomous Robotic Snowplow for Residential Use
 Janet Dong, **Xun Yang**, Alexander Suer.  
 in ASME *IMECE*, 2023. [Conference](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2023/87639/V006T07A077/1195872)
+
+Skills
+====
+**Languages**: Proficiency in English (TOEFL 100), Intermediate in German (B1), Chinese (Native).
+**Programming**: MATLAB (skilled), C++ (intermediate), Python (intermediate). 
+**Leadership**: Vice Minister in the College Student Union. Participated in the 5th Global Student Leadership Forum. 
+**Interests**: Soccer, Painting, R&B, Board Games, etc.
 
 <span style="color: grey;">For more details about me, please see my CV.</span>
 
