@@ -10,19 +10,16 @@ redirect_from:
 {% include base_path %}
 
 # EDUCATION
-<!--
-* M.S. in Robotics, University of Michigan - Ann Arbor, 2025 (expected)
-* B.S. in Mechanical Engineering, Univerity of Cincinnati, 2024
-* B.S. in Mechanical Engineering, Chongqing University, 2023-->
+___
 ### University of Michigan - Ann Arbor
 **M.S. in Robotics** (GPA: 4.00 / 4.00) <span style="float: right;">*08/2023 - Expect 2025*</span>
-* Relevant Courses: Design of Digital Control Systems, Linear Systems Theory, Robotics Kinematics and Dynamics, Vehicle Control System, Robotics System Lab (ROB550), etc.
+  * Relevant Courses: Design of Digital Control Systems, Linear Systems Theory, Robotics Kinematics and Dynamics, Vehicle Control System, Robotics System Lab (ROB550), etc.
 ### University of Cincinnati
-**B.S. in Mechanical Engineering** (GPA: 3.93 / 4.00)<div style="text-align: right;">*09/2022 – 05/2023*</div>
-* Relevant Courses: Intro to Robotics (A), Prob-Stats (A), Programming for ECE (A-), Thermodynamic (A), Fluid Mechanics (A), Solid Mechanics (A), etc.
+**B.S. in Mechanical Engineering** (GPA: 3.93 / 4.00) <span style="float: right;">*09/2022 – 05/2023*</span>
+  * Relevant Courses: Intro to Robotics (A), Prob-Stats (A), Programming for ECE (A-), Thermodynamic (A), Fluid Mechanics (A), Solid Mechanics (A), etc.
 ### Chongqing University
-**B.S. in Mechanical Engineering** (GPA: 3.69 / 4.00)<div style="text-align: right;">*09/2018 – 08/2022*</div>
-* Relevant Courses: Data Structures and Algorithms (95), Machine Learning (92), Numerical Techniques (95), Linear Algebra (91), Calculus (96), etc.
+**B.S. in Mechanical Engineering** (GPA: 3.69 / 4.00) <span style="float: right;">*09/2018 – 08/2022*</span>
+  * Relevant Courses: Data Structures and Algorithms (95), Machine Learning (92), Numerical Techniques (95), Linear Algebra (91), Calculus (96), etc.
 
 
 # INTERN EXPERIENCE
