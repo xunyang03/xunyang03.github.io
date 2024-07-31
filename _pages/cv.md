@@ -17,9 +17,8 @@ EDUCATION
 
 INTERN EXPERIENCE
 ======
-### Research Assistant 
-#### Soft Robotics Center, Shenzhen Institute of AI and Robotics (Airs), Shenzhen, China
-*Joined: [06/2024 – 08/2024]*
+### Research Assistant <span style="color: grey;">*06/2024 – 08/2024*</span><div style="text-align: right;">*06/2024 – 08/2024*</div>
+Soft Robotics Center, Shenzhen Institute of AI and Robotics (Airs), Shenzhen, China 
 * Origami Structure Optimization\
 Participated in the design optimization of the underwater deformable recovery robot (DUR), conducted kinematics analysis and parameter design of the origami structure. Established the maximum open-close area ratio model and the deploying dynamics model. Performed global optimization using the particle swarm algorithm.
 * Thruster System Design\
