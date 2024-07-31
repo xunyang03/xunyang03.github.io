@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 Xun Yang (pronounced “Shwin Yahng”) is a Master's student majoring in Robotics at the University of Michigan - Ann Arbor. His research interests include **Robotics Perception**, **Robotics Control**, and **Autonomous Vehicles**.\
-He received his bachelor's degree from the Chongqing University - University of Cincinnati Joint Co-op Institute in 2023. \
-He has interned in the Intelligent Robot Institute of a Fortune Global 500 Company in 2020. In 2024, he interned as an RA at Shenzhen Institute of Artificial Intelligence and Robotics for Society ([Airs](https://airs.cuhk.edu.cn/en)).\
+He received his bachelor's degree from the Chongqing University - University of Cincinnati Joint Co-op Institute in 2023. He has interned in the Intelligent Robot Institute of a Fortune Global 500 Company in 2020. In 2024, he interned as an RA at Shenzhen Institute of Artificial Intelligence and Robotics for Society ([Airs](https://airs.cuhk.edu.cn/en)).\
 Xun will graduate in April 2025 and is seeking opportunities in software and algorithm development.
 
 Education
@@ -27,9 +26,9 @@ in ASME *IMECE*, 2023. [Conference](https://asmedigitalcollection.asme.org/IMECE
 
 Skills
 ====
-**Languages**: Proficiency in English (TOEFL 100), Intermediate in German (B1), Chinese (Native).
-**Programming**: MATLAB (skilled), C++ (intermediate), Python (intermediate). 
-**Leadership**: Vice Minister in the College Student Union. Participated in the 5th Global Student Leadership Forum. 
+**Languages**: Proficiency in English (TOEFL 100), Intermediate in German (B1), Chinese (Native).\
+**Programming**: MATLAB (skilled), C++ (intermediate), Python (intermediate). \
+**Leadership**: Vice Minister in the College Student Union. Participated in the 5th Global Student Leadership Forum. \
 **Interests**: Soccer, Painting, R&B, Board Games, etc.
 
 <span style="color: grey;">For more details about me, please see my CV.</span>
