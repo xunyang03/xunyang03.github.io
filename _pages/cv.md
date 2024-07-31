@@ -9,6 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+  .toc {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+  }
+  .content {
+    margin-left: 220px;
+  }
+</style>
+
+<div class="toc">
+  ## Table of Contents
+  1. [Education](#education)
+  2. [Intern Experience](#intern-experience)
+  3. [Project Experience](#project-experience)
+  4. [Publication](#publication)
+</div>
+
+<div class="content">
+  
 ## EDUCATION
 ___
 ### University of Michigan - Ann Arbor
@@ -22,19 +44,6 @@ ___
 ### Chongqing University
 **B.S. in Mechanical Engineering** (GPA: 3.69 / 4.00) <span style="float: right;">*09/2018 – 08/2022*</span>
   * Relevant Courses: Data Structures and Algorithms (95), Machine Learning (92), Numerical Techniques (95), Linear Algebra (91), Calculus (96), etc.
-
-### University of Michigan - Ann Arbor
-**M.S. in Robotics** (GPA: 4.00 / 4.00) | <span style="float: right;">*08/2023 - Expect 2025*</span>
-  * Relevant Courses: Design of Digital Control Systems, Linear Systems Theory, Robotics Kinematics and Dynamics, Vehicle Control System, Robotics System Lab (ROB550), etc.
-
-### University of Cincinnati
-**B.S. in Mechanical Engineering** (GPA: 3.93 / 4.00) | <span style="float: right;">*09/2022 – 05/2023*</span>
-  * Relevant Courses: Intro to Robotics (A), Prob-Stats (A), Programming for ECE (A-), Thermodynamic (A), Fluid Mechanics (A), Solid Mechanics (A), etc.
-
-### Chongqing University
-**B.S. in Mechanical Engineering** (GPA: 3.69 / 4.00) | <span style="float: right;">*09/2018 – 08/2022*</span>
-  * Relevant Courses: Data Structures and Algorithms (95), Machine Learning (92), Numerical Techniques (95), Linear Algebra (91), Calculus (96), etc.
-
 
 ## INTERN EXPERIENCE
 ___
@@ -70,7 +79,7 @@ ___
   * Outcome: The vehicle demonstrated stable driving and turning, executed snowplow commands effectively, and successfully performed autonomous path following and waypoint cruising in a simulated environment.
 
 ### 2D LiDAR SLAM Research
-**Research Intern**, State Key Laboratory of Mechanical Transmissions, Chongqing University <span style="float: right;">*09/2021 – 12/2021, 05/2022 – 07/2022*</span>
+**Research Intern**, State Key Laboratory of Mechanical Transmissions <span style="float: right;">*09/2021 – 12/2021, 05/2022 – 07/2022*</span>
   * Background: Joined Professor Chunyun Fu's research group at Chongqing University as an undergraduate to systematically study SLAM algorithms.
   * Implementation: Developed a 2D point cloud line segment fitting method using Principal Component Analysis (PCA) within a MATLAB framework. Utilized DBSCAN for feature matching and fusion.
   * Outcome: Designed a 2D point cloud data processing method based on line segment features, optimizing spatial complexity by 60%.
@@ -78,3 +87,5 @@ ___
 ## PUBLICATION
 ___
 1. Janet Dong, **Xun Yang**, Alexander Suer. “Development of an Autonomous Robotic Snowplow for Residential Use”, *ASME International Mechanical Engineering Congress & Exposition (IMECE) 2023*.
+
+</div>
