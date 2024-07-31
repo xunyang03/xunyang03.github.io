@@ -8,28 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<style>
-  .toc {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    width: 200px;
-  }
-  .content {
-    margin-left: 220px;
-  }
-</style>
-
-<div class="toc">
-  ## Table of Contents
-  1. [Education](#education)
-  2. [Intern Experience](#intern-experience)
-  3. [Project Experience](#project-experience)
-  4. [Publication](#publication)
-</div>
-
-<div class="content">
   
 ## EDUCATION
 ___
@@ -88,4 +66,3 @@ ___
 ___
 1. Janet Dong, **Xun Yang**, Alexander Suer. “Development of an Autonomous Robotic Snowplow for Residential Use”, *ASME International Mechanical Engineering Congress & Exposition (IMECE) 2023*.
 
-</div>
