@@ -69,3 +69,12 @@ Designed the position and orientation of the DUR thruster. Constructed a propuls
 ---
 1. Janet Dong, **Xun Yang**, Alexander Suer. “Development of an Autonomous Robotic Snowplow for Residential Use”, *ASME International Mechanical Engineering Congress & Exposition (IMECE) 2023*.
 
+---
+# GRANTS AND HONORS
+---
+Chongqing University Comprehensive Scholarship - The 2nd Prize Scholarship <span style="float: right;">*2022*</span><br>
+The Mathematical Contest in Modeling (MCM) - Finalist Winner  <span style="float: right;">*2021*</span><br>
+Chongqing University Comprehensive Scholarship - The 3rd Prize Scholarship <span style="float: right;">*2020*</span><br>
+Advanced Individual of Chongqing University - Spiritual Advanced Individual <span style="float: right;">*2019*</span><br>
+
+
