@@ -68,7 +68,8 @@ Designed the position and orientation of the DUR thruster. Constructed a propuls
 # PUBLICATION
 ---
 1. Janet Dong, **Xun Yang**, Alexander Suer. “Development of an Autonomous Robotic Snowplow for Residential Use”, <be>
-*ASME International Mechanical Engineering Congress & Exposition (IMECE) 2023*. [Conference](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2023/87639/V006T07A077/1195872)
+*ASME International Mechanical Engineering Congress & Exposition (IMECE) 2023*.
+[Conference](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2023/87639/V006T07A077/1195872)
 
 ---
 # GRANTS AND HONORS
