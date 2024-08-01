@@ -33,12 +33,12 @@ Participated in the design optimization of the underwater deformable recovery ro
   * Thruster System Design\
 Designed the position and orientation of the DUR thruster. Constructed a propulsion system model with a characteristic matrix. Evaluated overall maneuverability through SVD decomposition. Evaluated the maximum output of force through linear regression.
 
-### Project Manager Internhttp <span style="float: right;">[CISDI](www.cisdigroup.com.cn/)</span>
+### Project Manager Internhttp <span style="float: right;">[CISDI](http://www.cisdigroup.com.cn/index_2.html)</span>
 **Overseas Business Department, CISDI Engineering Co., Ltd**, Chongqing, China <span style="float: right;">*01/2021 - 04/2021*</span>
   * Conducted the quotation of casters to Rustenburg Platinum mines, ZA. Assisted in the inspection and translation of technical documents. Clarified ambiguities for both suppliers and inquirers.
   * Learned the skills of project management. Experienced the international industrial chain.
 
-### Mechanism Design and Simulation Intern <span style="float: right;">[CISDI](www.cisdigroup.com.cn/)</span>
+### Mechanism Design and Simulation Intern <span style="float: right;">[CISDI](http://www.cisdigroup.com.cn/index_2.html)</span>
 **Intelligent Robot Research Institute, CISDI Technology Research Center**, Chongqing, China <span style="float: right;">*06/2020 - 08/2020*</span>
   * Engaged in the design of a double-position sampling robot, which can measure and sample molten steel by extending probes into furnaces. Accomplished the design, modeling, and verification of a mechanism for mold release.
   * Accessed the leading industrial robots. Understood the general process of project R&D.
