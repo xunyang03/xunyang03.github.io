@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Xun Yang (pronounced “Shwin Yahng”) is a Master's student majoring in Robotics at the University of Michigan - Ann Arbor. His research interests include **Robotics Perception**, **Robotics Control**, and **Autonomous Vehicles**.\
-He received his bachelor's degree from the Chongqing University - University of Cincinnati Joint Co-op Institute in 2023. In 2024 summer, he interned as an RA at Shenzhen Institute of Artificial Intelligence and Robotics for Society ([Airs](https://airs.cuhk.edu.cn/en)).\
+He received his bachelor's degree from the Chongqing University - University of Cincinnati Joint Co-op Institute in 2023. In 2024 summer, he interned as an RA at Shenzhen Institute of Artificial Intelligence and Robotics for Society.\
 Xun will graduate in April 2025 and is seeking opportunities in software and algorithm development.
 
 Education
@@ -20,7 +20,7 @@ Publication
 ====
 ### Development of an Autonomous Robotic Snowplow for Residential Use
 Janet Dong, **Xun Yang**, Alexander Suer.  
-in ASME *IMECE*, 2023. [Conference](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2023/87639/V006T07A077/1195872)
+in ASME *IMECE*, 2023.
 
 Skills
 ====
