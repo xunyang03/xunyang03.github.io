@@ -33,7 +33,7 @@ Participated in the design optimization of the underwater deformable recovery ro
   * Thruster System Design\
 Designed the position and orientation of the DUR thruster. Constructed a propulsion system model with a characteristic matrix. Evaluated overall maneuverability through SVD decomposition. Evaluated the maximum output of force through linear regression.
 
-### Project Manager Internhttp <span style="float: right;">[CISDI](http://www.cisdigroup.com.cn/index_2.html)</span>
+### Project Manager Intern <span style="float: right;">[CISDI](http://www.cisdigroup.com.cn/index_2.html)</span>
 **Overseas Business Department, CISDI Engineering Co., Ltd**, Chongqing, China <span style="float: right;">*01/2021 - 04/2021*</span>
   * Conducted the quotation of casters to Rustenburg Platinum mines, ZA. Assisted in the inspection and translation of technical documents. Clarified ambiguities for both suppliers and inquirers.
   * Learned the skills of project management. Experienced the international industrial chain.
@@ -74,9 +74,9 @@ Designed the position and orientation of the DUR thruster. Constructed a propuls
 ---
 # GRANTS AND HONORS
 ---
-Chongqing University Comprehensive Scholarship - The 2nd Prize Scholarship <span style="float: right;">*2022*</span><br>
-The Mathematical Contest in Modeling (MCM) - Finalist Winner  <span style="float: right;">*2021*</span><br>
-Chongqing University Comprehensive Scholarship - The 3rd Prize Scholarship <span style="float: right;">*2020*</span><br>
-Advanced Individual of Chongqing University - Spiritual Advanced Individual <span style="float: right;">*2019*</span><br>
+* Chongqing University Comprehensive Scholarship - The 2nd Prize Scholarship <span style="float: right;">*2022*</span><br>
+* The Mathematical Contest in Modeling (MCM) - Finalist Winner  <span style="float: right;">*2021*</span><br>
+* Chongqing University Comprehensive Scholarship - The 3rd Prize Scholarship <span style="float: right;">*2020*</span><br>
+* Advanced Individual of Chongqing University - Spiritual Advanced Individual <span style="float: right;">*2019*</span><br>
 
 
