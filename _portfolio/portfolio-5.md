@@ -5,17 +5,8 @@ excerpt: "Lidar slam w/ open source MATLAB frame. Research on line features reco
 collection: portfolio
 ---
 
-# point_cloud_processing
 Lidar slam w/ open source MATLAB framework. Research on line features recognition and extraction.
-[Source](https://github.com/meyiao/LaserSLAM/tree/master)<br>
-<table>
-  <tr>
-<td><img src="images/matlab_slam/pointcloud_1.jpg" alt="matlabframe" width='500' length='500'></td>
-  </tr>
-  <tr>
-<td>Figure 1. MATLAB open source framework</td>
-  </tr>
-</table>
+Project is now available on my Github! [github](https://github.com/xunyang03/point_cloud_processing))<br>
 
 In the beginning, I noted that the line features of the 
 indoor environment are apparent, e.g.: the outlines of walls or tables. Therefore, I decided to 
@@ -29,10 +20,10 @@ each cluster. Next, I implemented **Principal Component Analysis** to obtain the
 slopes and endpoints. <br>
 <table>
   <tr>    
-    <td><img src="images/matlab_slam/pointcloud_singlescan.jpg" alt="single_scan" width='500' length='500'></td>
+    <td><img src='images/matlab_slam/pointcloud_singlescan.jpg' alt="single_scan" width='500' length='500'></td>
   </tr>
   <tr>
-    <td><p>Figure 2. Single scan point cloud before/after processing</p></td>
+    <td><p>Figure 1. Single scan point cloud before/after processing</p></td>
   </tr>
 </table>
 
@@ -49,9 +40,9 @@ labeled the same and merged. <br>
     <td><img src="images/matlab_slam/pointcloud_multiscan_meanshift.jpg" alt="mult_ms" style="width: 400px;"></td>
   </tr>
   <tr>
-    <td><p>Figure 3. Origin data after line fitting</p></td>
-    <td><p>Figure 4. Data after DBSCAN</p></td>
-    <td><p>Figure 5. Data after Meanshift</p></td>   
+    <td><p>Figure 2. Origin data after line fitting</p></td>
+    <td><p>Figure 3. Data after DBSCAN</p></td>
+    <td><p>Figure 4. Data after Meanshift</p></td>   
   </tr>
 </table>
           
@@ -65,7 +56,7 @@ reduced to 700 line segments, while the processing time was within 5 minutes.
   <td><img src="images/matlab_slam/pointcloud_multiscan_merged.jpg" alt="result" width='300'></td>
   </tr>
   <tr>
-  <td><p>Figure 6. Original data w/ number of lines</p></td>
-    <td><p>Figure 7. Data after feature merging w/ num of lines</p></td>   
+  <td><p>Figure 5. Original data w/ number of lines</p></td>
+  <td><p>Figure 6. Data after feature merging w/ num of lines</p></td>   
   </tr>
 </table>
