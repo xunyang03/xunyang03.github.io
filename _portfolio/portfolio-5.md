@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 Lidar slam w/ open source MATLAB framework. Research on line features recognition and extraction.
-Project is now available on my Github! [github](https://github.com/xunyang03/point_cloud_processing))<br>
+Project is now available on my Github! [github](https://github.com/xunyang03/point_cloud_processing)<br>
 
 In the beginning, I noted that the line features of the 
 indoor environment are apparent, e.g.: the outlines of walls or tables. Therefore, I decided to 
@@ -20,7 +20,7 @@ each cluster. Next, I implemented **Principal Component Analysis** to obtain the
 slopes and endpoints. <br>
 <table>
   <tr>    
-    <td><img src='images/matlab_slam/pointcloud_singlescan.jpg' alt="single_scan" width='500' length='500'></td>
+    <td><img src='/images/matlab_slam/pointcloud_singlescan.jpg' alt="single_scan" width='500' length='500'></td>
   </tr>
   <tr>
     <td><p>Figure 1. Single scan point cloud before/after processing</p></td>
@@ -35,9 +35,9 @@ labeled the same and merged. <br>
 
 <table>
   <tr>
-    <td><img src="images/matlab_slam/pointcloud_multiscan_origin.jpg" alt="mult_orig" style="width: 400px;"></td>
-    <td><img src="images/matlab_slam/pointcloud_multiscan_dbscan.jpg" alt="mult_db" style="width: 400px;"></td>
-    <td><img src="images/matlab_slam/pointcloud_multiscan_meanshift.jpg" alt="mult_ms" style="width: 400px;"></td>
+    <td><img src="/images/matlab_slam/pointcloud_multiscan_origin.jpg" alt="mult_orig" style="width: 400px;"></td>
+    <td><img src="/images/matlab_slam/pointcloud_multiscan_dbscan.jpg" alt="mult_db" style="width: 400px;"></td>
+    <td><img src="/images/matlab_slam/pointcloud_multiscan_meanshift.jpg" alt="mult_ms" style="width: 400px;"></td>
   </tr>
   <tr>
     <td><p>Figure 2. Origin data after line fitting</p></td>
@@ -52,8 +52,8 @@ reduced to 700 line segments, while the processing time was within 5 minutes.
 
 <table>
   <tr>
-  <td><img src="images/matlab_slam/pointcloud_multiscan_origin2.jpg" alt="result" width='300'></td>
-  <td><img src="images/matlab_slam/pointcloud_multiscan_merged.jpg" alt="result" width='300'></td>
+  <td><img src="/images/matlab_slam/pointcloud_multiscan_origin2.jpg" alt="result" width='300'></td>
+  <td><img src="/images/matlab_slam/pointcloud_multiscan_merged.jpg" alt="result" width='300'></td>
   </tr>
   <tr>
   <td><p>Figure 5. Original data w/ number of lines</p></td>
