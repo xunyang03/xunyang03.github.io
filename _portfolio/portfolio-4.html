@@ -5,10 +5,38 @@ excerpt: "ROB550 Course Project <br/>
 collection: portfolio
 ---
 
-Built a car equipped with a LiDAR, implemented PID control, filtering SLAM, and path planning.<br>
+<p>In this lab, we worked with the MBot, a differential drive robot with 2 parallel wheels and a rear caster. 
+  Each motor is equipped with a magnetic wheel encoder. The robot also features a scanning 2D Lidar and a 3-axis IMU, 
+  and communicates via Wi-Fi with its onboard Jetson Nano compute module. Low-level motor control is implemented
+  on the MBot Control Board using a RaspberryPi RP2040-based microcontroller.</p>
+<h2>Overview</h2>
+<h3>Action</h3>
+<ul>
+  <li>Cascade Control & PID</li>
+  <li>3-DOF rigid-body coordinate transforms</li>
+  <li>Planar kinematics of a differential-drive ground robot</li>
+  <li>Motion models with uncertainty</li>
+</ul>
+<h3>Perception</h3>
+<ul>
+  <li>Quadrature Encoders</li>
+  <li>MEMS Inertial Measurement Unit</li>
+  <li>2D LIDAR Rangefinders</li>
+  <li>Camera and Fiducial Marker Detection</li>
+</ul>
+<h3>Reasoning</h3>
+<ul>
+  <li>Monte Carlo Localization</li>
+  <li>Simultaneous Localization and Mapping</li>
+  <li>A* Search</li>
+  <li>Path Planning</li>
+</ul>
+<h2>Result</h2>
 The car successfully navigated through a maze<br>
 <img src='/images/mbot_lab.jpg' width='560' height='315'><br>
+Fig 1. Testing the Mbot during lab time<br>
 <img src='/images/mbot_software.jpg' width='560' height='315'><br>
+Fig 2. Hardware and Software Deployment<br>
 <img src='/images/mbot_mazetest.jpg' width='560' height='315'><br>
-
+Fig 3. Result of the SLAM System<br>
 <iframe width='560' height='315' src="https://drive.google.com/file/d/1robsX2f80bha9itat_j-VqY5X04AQr7r/preview" width="640" height="480" allow="autoplay"></iframe>
