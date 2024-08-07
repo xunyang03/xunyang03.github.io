@@ -1,7 +1,7 @@
 ---
 title: "Gear Composite Focusing Mechanism"
 excerpt: "Undergraduate Innovation Project <br/>
-<img src='/images/focus_mech/3dmodel.jpg' width='400' height='300'>"
+<img src='/images/focus_mech/3dmodel.jpg' width='400'>"
 collection: portfolio
 ---
 
