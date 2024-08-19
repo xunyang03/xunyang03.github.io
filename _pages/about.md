@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xun Yang (pronounced “Shwin Yahng”) is a Master's student majoring in Robotics at the University of Michigan - Ann Arbor. His research interests include **Robotics Perception**, **Robotics Control**, and **Autonomous Vehicles**.\
+Xun Yang (pronounced “Shwin Yahng”) is a Master's student majoring in Robotics at the University of Michigan - Ann Arbor. His research interests include **Embodied Intelligence**, **Robotics Control**, and **Autonomous Vehicles**.\
 He received his bachelor's degree from the Chongqing University - University of Cincinnati Joint Co-op Institute in 2023. In 2024 summer, he interned as an RA at Shenzhen Institute of Artificial Intelligence and Robotics for Society.\
 Xun will graduate in April 2025 and is seeking opportunities in software and algorithm development.
 
