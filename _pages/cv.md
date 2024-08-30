@@ -64,6 +64,12 @@ Designed the position and orientation of the DUR thruster. Constructed a propuls
   * Implementation: Developed a 2D point cloud line segment fitting method using Principal Component Analysis (PCA) within a MATLAB framework. Utilized DBSCAN for feature matching and fusion.
   * Outcome: Designed a 2D point cloud data processing method based on line segment features, optimizing spatial complexity by 60%.
 
+### Gear Composite Focusing Mechanism
+**Group Member**, State Key Laboratory of Mechanical Transmissions <span style="float: right;">*07/2020 - 05/2021*</span>
+  * Background: Undergrads’ Innovations Project.
+  * Implementation: Designed a focusing mechanism based on face gear pair to satisfy the lightweight requirements for space telescopes.
+  * Outcome: Modeled the mechanism by Solidworks. Processed and verified the prototype by 3D printing, which demonstrated acceptable performance with a displacement error of 4.7%.
+
 ---
 # PUBLICATION
 ---
